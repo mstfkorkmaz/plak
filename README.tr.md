@@ -33,7 +33,7 @@ Plak'ın içinde hiç müzik yoktur ve hiçbir dış servise bağlanmaz. Kitapl�
 [Node.js 24](https://nodejs.org) veya üstü gerekir.
 
 ```bash
-git clone https://github.com/OWNER/plak.git
+git clone https://github.com/mstfkorkmaz/plak.git
 cd plak
 npm install
 npm run build

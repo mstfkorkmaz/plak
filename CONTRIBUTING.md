@@ -5,7 +5,7 @@ Thanks for helping! Bug reports, ideas and pull requests are all welcome. T√ºrk√
 ## Getting started
 
 ```bash
-git clone https://github.com/OWNER/plak.git
+git clone https://github.com/mstfkorkmaz/plak.git
 cd plak
 npm install
 npm run demo-library

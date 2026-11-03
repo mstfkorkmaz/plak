@@ -35,7 +35,7 @@ Plak ships no music and contacts no third-party service. Your library and your l
 You need [Node.js 24](https://nodejs.org) or newer.
 
 ```bash
-git clone https://github.com/OWNER/plak.git
+git clone https://github.com/mstfkorkmaz/plak.git
 cd plak
 npm install
 npm run build

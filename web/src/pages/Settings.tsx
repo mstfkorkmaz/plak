@@ -210,7 +210,7 @@ export function Settings({ user, onLogout }: { user: User; onLogout: () => void 
       </section>
       {user.isAdmin && <Users me={user} />}
       <p className="muted about">
-        {t.about} <a href="https://github.com/solidcode-tr/plak" target="_blank" rel="noreferrer">GitHub</a>
+        {t.about} <a href="https://github.com/mstfkorkmaz/plak" target="_blank" rel="noreferrer">GitHub</a>
       </p>
     </div>
   );
