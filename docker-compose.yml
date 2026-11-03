@@ -1,0 +1,14 @@
+services:
+  plak:
+    build: .
+    container_name: plak
+    restart: unless-stopped
+    ports:
+      - "4747:4747"
+    volumes:
+      # Change the left side to the folder that holds your music.
+      - ./music:/music:ro
+      - plak-data:/data
+
+volumes:
+  plak-data:
